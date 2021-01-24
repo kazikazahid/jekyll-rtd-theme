@@ -2,13 +2,9 @@
 sort: 4
 ---
 
-```note
-This is note2
-```
-
 # Mermaid Test
 
-    ```mermaid
+```mermaid
     graph TB
         c1-->a2
         subgraph one
@@ -35,6 +31,12 @@ graph TB
     c1-->c2
     end
 ```
+
+
+```note
+This is note2
+```
+
 
 ```mermaid
 graph TD;
