@@ -21,6 +21,7 @@ sort: 3
 ```
 
 **Highlight:**
+
 ```tip
 It’s bigger than a bread box.
 ```
