@@ -1,8 +1,8 @@
 ---
-sort: 1
+sort: 2
 ---
 
-# Markdown Elements
+# Home Arch
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
 
