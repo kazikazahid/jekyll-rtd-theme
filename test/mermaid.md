@@ -2,6 +2,10 @@
 sort: 4
 ---
 
+```note
+This is note2
+```
+
 # Mermaid Test
 
     ```mermaid
